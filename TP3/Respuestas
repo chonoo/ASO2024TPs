@@ -1,0 +1,19 @@
+(Procesos sin Hilos)
+se puede notar que el tiempo de ejecucion es largo y varia entre 13 y 11 segundos
+procesar datos
+tomar apuntes en un dictado
+
+(Procesos con Hilos)
+se puede notar que el tiempo de ejecucion es mas bajo, si mejoro con recpecto al Programa sin Hilos
+No, se complementan por el tiempo de ejecucion, el mas rapido primero y el que mas tarda ultimo
+La descompresion de archivos
+
+(Sumador Restador con Race)
+Que es mas rapido
+El valor final acumulado varia en cada ejecucion
+Porque los valores se guardan en un "acumulador" y cada vez que lo ejecutamos varian
+Sincronizar el acceso a la variable compartido "Acumulador"
+
+(Sumador Restador Sin Hilos)
+El valor final del acumulador queda en 0
+Que es inmediato
